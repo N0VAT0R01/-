@@ -11,7 +11,9 @@
 */
 
 const songs = [
-  { title: 'Хоп-хей, лалалей', artist: 'Леонид Агутин', lyrics: '', chorus: '' },
+  { title: 'Хоп-хей, лалалей', artist: 'Леонид Агутин', lyrics: 'test'+
+    'jhjjhk'+
+    ', chorus: '' },
   { title: 'Катюша', artist: 'Песня военных лет', lyrics: '', chorus: '' },
   { title: 'Седая ночь', artist: 'Юрий Шатунов', lyrics: '', chorus: '' },
   { title: 'Знаешь ли ты', artist: 'МакSим', lyrics: '', chorus: '' },
